@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yehoon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehoon17&label=Profile%20views&color=0e75b6&style=flat" alt="yehoon17" /> </p>
 
+- Tech blog <https://yehoon17.github.io/>
 - 📫 How to reach me **yehoon17@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
