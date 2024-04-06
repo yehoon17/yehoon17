@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yehoon17&show_icons=true&locale=en" alt="yehoon17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yehoon17&" alt="yehoon17" /></p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cmptr077)](https://solved.ac/cmptr077)
